@@ -1,4 +1,5 @@
 import satData from "./satData";
+import style from './styling.css';
 
 const Table = ({ sat }) => {
   return (
